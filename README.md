@@ -17,13 +17,13 @@ Este projeto foi desenvolvido como parte dos estudos no **SENAI** para entender 
 ## 🚀 Como Utilizar
 1️⃣ **Clone este repositório:**
    ```sh
-   git clone https://github.com/seu-usuario/projeto-viacep.git
+   git clone https://github.com/italoaurelio/viacepapiSenai
    ```
 2️⃣ **Acesse a pasta do projeto:**
    ```sh
-   cd projeto-viacep
+   cd viacepapiSenai
    ```
-3️⃣ **Abra o arquivo `index.html` no navegador.** 🌍
+3️⃣ **Digite `npm run dev` no terminal.** 🌍
 4️⃣ **Digite um CEP e clique em "Buscar" para visualizar as informações do endereço.** 🔎
 
 ## 📝 Exemplo de Código
@@ -41,4 +41,4 @@ async function buscarCEP(cep) {
 🚧 Adicionar funcionalidade para salvar os últimos CEPs buscados. 💾
 
 ## 👨‍💻 Autor
-📢 [Seu Nome] - Desenvolvedor em formação pelo **SENAI** 🎓
+📢 Ítalo Aurélio - Desenvolvedor em formação pelo **SENAI** 🎓
